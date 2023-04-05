@@ -1,0 +1,14 @@
+env: PlatoonSin5
+n_iter: 10000
+batch_size: 2048
+adjust_weight: False
+u_nominal: None
+init_iter: 0
+condition_iter: 250
+decent_iter: 750
+gpus: 3
+log_path: ./logs
+seed: 3
+no_cuda: False
+algo: niss
+hyper_params: using default hyper-parameters

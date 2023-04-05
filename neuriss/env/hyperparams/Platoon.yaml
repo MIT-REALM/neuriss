@@ -1,0 +1,9 @@
+loss_coefs:
+  goal: 100.
+  decrease: 50.
+  condition: 0.1
+  control: 0.001
+loss_eps:
+  decrease: 1.0
+lambda: 1.0
+residue: True

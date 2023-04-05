@@ -1,0 +1,36 @@
+Microgrid-IEEE5:
+  neuriss:
+    --n-iter: 10000
+    --init-iter: 0
+  ppo:
+    --steps: 5000000
+  mappo:
+    --steps: 5000000
+  lyppo:
+    --steps: 5000000
+  nclf:
+    --n-iter: 10000
+PlatoonSin5:
+  neuriss:
+    --n-iter: 2000
+    --init-iter: 0
+  ppo:
+    --steps: 5000000
+  mappo:
+    --steps: 5000000
+  lyppo:
+    --steps: 5000000
+  nclf:
+    --n-iter: 10000
+PlanarDroneSin2x2:
+  neuriss:
+    --n-iter: 4000
+    --init-iter: 3000
+  ppo:
+    --steps: 5000000
+  mappo:
+    --steps: 5000000
+  lyppo:
+    --steps: 5000000
+  nclf:
+    --n-iter: 10000
