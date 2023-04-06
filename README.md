@@ -1,6 +1,6 @@
 # NeurISS
 
-[![Conference](https://img.shields.io/badge/L4DC-Accepted-success)](https://mit-realm.github.io/neuriss-website/) [![Arxiv](http://img.shields.io/badge/arxiv-2303.14564-B31B1B.svg)](https://arxiv.org/abs/2303.14564)
+[![Conference](https://img.shields.io/badge/L4DC-Accepted-success)](https://mit-realm.github.io/neuriss-website/) [![Arxiv](http://img.shields.io/badge/arxiv-2303.14564-B31B1B.svg)](https://arxiv.org/abs/2303.14564)[![Conference](https://img.shields.io/badge/Project%20page-success)](https://mit-realm.github.io/neuriss-website/)
 
 Official implementation of the L4DC 2023 paper: [S Zhang](https://syzhang092218-source.github.io), [Y Xiu](https://yumengxiu.github.io/), [G Qu](https://www.guannanqu.com/), [C Fan](https://chuchu.mit.edu): "[Compositional Neural Certificates for Networked Dynamical Systems](https://mit-realm.github.io/neuriss-website/)".
 
